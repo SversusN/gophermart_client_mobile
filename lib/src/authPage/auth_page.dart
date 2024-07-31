@@ -95,13 +95,14 @@ class AuthPageState extends State {
                               setState(() => _agreement = newValue);
                             }),
                         const SizedBox(height: 20.0),
-                        ElevatedButton(
-                          style: ElevatedButton.styleFrom(
-                            backgroundColor: AppColors.appColor,
-                            foregroundColor: AppColors.textColorDisabled,
-                            minimumSize: const Size.fromHeight(50),
-                            // fromHeight use double.infinity as width and 40 is the height
-                          ),
+                        MaterialButton(
+                          minWidth: 340,
+                          padding: AppUi.cardPadding,
+                          color: AppColors.appColor,
+                          textColor: AppColors.mainPageBannerBackgroundColor,
+                          shape: const RoundedRectangleBorder(
+                              borderRadius:
+                                  BorderRadius.all(Radius.circular(15.0))),
                           onPressed: () async {
                             if (_formKey.currentState!.validate()) {
                               String text;
@@ -176,13 +177,14 @@ class AuthPageState extends State {
                           ),
                         ),
                         const SizedBox(height: 20.0),
-                        ElevatedButton(
-                          style: ElevatedButton.styleFrom(
-                            backgroundColor: AppColors.appColor,
-                            foregroundColor: AppColors.textColorDisabled,
-                            minimumSize: const Size.fromHeight(50),
-                            // fromHeight use double.infinity as width and 40 is the height
-                          ),
+                        MaterialButton(
+                          color: AppColors.appColor,
+                          textColor: AppColors.mainPageBannerBackgroundColor,
+                          minWidth: 340,
+                          padding: AppUi.cardPadding,
+                          shape: const RoundedRectangleBorder(
+                              borderRadius:
+                                  BorderRadius.all(Radius.circular(15.0))),
                           onPressed: () async {
                             if (_formKey.currentState!.validate()) {
                               String text;
