@@ -1,4 +1,4 @@
-class F3MobileText {
+class AppText {
   static const invoiceLoadingDataMessage = 'Загружаем позиции...';
   static const invoiceLoadingDataErrorMessage =
       'При загрузке накладной произошла ошибка.';
