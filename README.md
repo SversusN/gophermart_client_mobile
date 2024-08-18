@@ -13,12 +13,12 @@
 * 
 ![2024-08-18_16-56-38](https://github.com/user-attachments/assets/409da03e-6441-4144-893d-8850aa7c76ac)
 
-*О перация списания
+*Операция списания
 
 ![2024-08-18_16-57-03](https://github.com/user-attachments/assets/59beb99b-ea83-4f07-9e54-292bee06c593)
 
 * Визуализация "скидки"
-* 
+
 ![2024-08-18_17-01-14](https://github.com/user-attachments/assets/e034bd27-de03-4a5b-85b5-dbede913c781)
 
 *Авторизация
