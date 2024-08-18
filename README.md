@@ -1,30 +1,22 @@
 # gophermart
 
-A new Flutter project.
+Проет клиента к дипломному проекту Яндекса gophermart
 
-## Getting Started
+## Экраны
+* Баланс и журналы пополнения и списаний
+![2024-08-18_16-56-12](https://github.com/user-attachments/assets/a68b1cf4-1e70-4e9b-bd2e-4d9a17140098)
 
-This project is a starting point for a Flutter application that follows the
-[simple app state management
-tutorial](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple).
+![2024-08-18_16-55-48](https://github.com/user-attachments/assets/573641a6-0819-4377-b1a4-6f26cab06bfc)
+* Операция регистрации заказа
+![2024-08-18_16-56-38](https://github.com/user-attachments/assets/409da03e-6441-4144-893d-8850aa7c76ac)
+*Операция списания
+![2024-08-18_16-57-03](https://github.com/user-attachments/assets/59beb99b-ea83-4f07-9e54-292bee06c593)
+*Визуализация "скидки"
+![2024-08-18_17-01-14](https://github.com/user-attachments/assets/e034bd27-de03-4a5b-85b5-dbede913c781)
+*Авторизация
+![2024-08-18_17-01-47](https://github.com/user-attachments/assets/dc8952ce-eb2b-4d17-b4dd-62d91ec538cd)
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Бизнес процесс в динамике
+![gophermartclient](https://github.com/user-attachments/assets/8be99287-8900-4b22-bc01-e7c9bb1cf79a)
 
-## Assets
 
-The `assets` directory houses images, fonts, and any other files you want to
-include with your application.
-
-The `assets/images` directory contains [resolution-aware
-images](https://flutter.dev/docs/development/ui/assets-and-images#resolution-aware).
-
-## Localization
-
-This project generates localized messages based on arb files found in
-the `lib/src/localization` directory.
-
-To support additional languages, please visit the tutorial on
-[Internationalizing Flutter
-apps](https://flutter.dev/docs/development/accessibility-and-localization/internationalization)
